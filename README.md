@@ -1,2 +1,2 @@
-# dgm
+# DGM
 Deep Graphical Models
